@@ -1,0 +1,6 @@
+@ApiMinimalRBH_HostAddress = http://localhost:5250
+
+GET {{ApiMinimalRBH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
